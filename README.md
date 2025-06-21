@@ -19,7 +19,7 @@ Over **2,500+** algorithmic problems solved across:
 ![UVA](https://img.shields.io/badge/UVA%20OJ-1A1A1A?style=for-the-badge&logo=code&logoColor=white)
 
 - **Data structures & algorithms:** Deep understanding and practical mastery, crafting optimized and elegant solutions.
-- **Software craftsmanship:** Building real-world applications with Python, Java, Flutter — blending clean code with smooth user experience.
+- **Software craftsmanship:** Building real-world applications with Python,Django,Flask, Flutter — blending clean code with smooth user experience.
 - **Exploring AI & machine learning:** Bringing intelligent automation and smart decision-making into gaming and education.
   
 
