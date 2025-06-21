@@ -33,11 +33,7 @@ Over **2,500+** algorithmic problems solved across:
 
 ---
 
-### 🎯 Mindset
 
-Every problem is an opportunity — an invitation to learn, innovate, and push boundaries. The beauty of code lies not just in logic, but in creativity and persistence.
-
----
 
 ### 🛠️ Tech Stack & Tools
 
@@ -54,5 +50,24 @@ Every problem is an opportunity — an invitation to learn, innovate, and push b
 
 
 ---
+### 🏆 Competitive Programming Achievements
+
+| #  | Achievement                                                                 | Details / Team / Handle                      |
+|----|------------------------------------------------------------------------------|----------------------------------------------|
+| 1  | 🥇 Ranked **10th** out of 120 Bangladeshi teams in **IEEEXtreme 17.0**      | Team: JUBlackCaps                            |
+| 2  | 🥈 Ranked **17th** out of 100 Bangladeshi teams in **IEEEXtreme 16.0**      | Team: JU3Bits                                 |
+| 3  | 🥈 Ranked **2nd** in **Hamba Programming Contest**                          | Organized by Shohoj Coding *(Credential)*     |
+| 4  | 🔥 Ranked **Top 5** among Bangladeshi contestants in **Leetcode Contest 437** | [Standings](#) *(optional link)*              |
+| 5  | 🥈 Ranked **2nd** in **SPC Round 40**                                       | [Standings](#)                                |
+| 6  | 🥉 Ranked **4th** in **SPC Round 35**                                       | [Standings](#)                                |
+| 7  | ⭐ Achieved **3★** on **CodeChef**, Country Rank: **590**                   | Handle: `tawsif_bhuiyan`                      |
+| 8  | 🚀 Reached **Top 12%** on **LeetCode**, Max Rating: **1703**               | Handle: `tawsifbhuiyan`                       |
+| 9  | 🟩 Achieved **Green Coder** on **Codeforces**, Max Rating: **1384**        | Handle: `Tawsif`                              |
+| 10 | 🟫 Reached **Brown Coder** on **AtCoder**                                   | Handle: `tawsifbhuiyan`                       |
+| 11 | 🧠 Ranked **515th/2489** in **ICPC Preliminary 2024** (Top 20%)             | Team: JUOddBits                               |
+| 12 | 🔒 Earned **LeetCode 50 Days Badge** for 3 consecutive years                | Years: 2023, 2024, 2025                       |
+| 13 | 🧩 Ranked **63rd** out of ~300 in **CPS Academy Interview Quest**           | Online Round *(Result)*                       |
+| 14 | 🏅 Earned **CodeChef Contest Contender Gold Badge**                         | Profile: `tawsif_bhuiyan`                    |
+
 
 Curious minds code better — let the challenges keep coming.
