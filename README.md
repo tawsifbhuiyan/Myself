@@ -6,7 +6,18 @@ A passionate competitive programmer with a relentless drive to solve complex alg
 
 ### ⚡ What fuels my code?
 
-- **Problem-solving at scale:** Over 2,500 algorithmic problems cracked across platforms like Codeforces, LeetCode, CodeChef, AtCoder, UVA, and more.
+- ### ⚡ Problem-Solving at Scale
+
+Over **2,500+** algorithmic problems solved across:
+
+![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
+![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![AtCoder](https://img.shields.io/badge/AtCoder-1F8ACB?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)
+![CSES](https://img.shields.io/badge/CSES-005F73?style=for-the-badge&logo=cses&logoColor=white)
+![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
+![UVA](https://img.shields.io/badge/UVA%20OJ-1A1A1A?style=for-the-badge&logo=code&logoColor=white)
+
 - **Data structures & algorithms:** Deep understanding and practical mastery, crafting optimized and elegant solutions.
 - **Software craftsmanship:** Building real-world applications with Python, Java, Flutter — blending clean code with smooth user experience.
 - **Exploring AI & machine learning:** Bringing intelligent automation and smart decision-making into gaming and education.
