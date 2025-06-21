@@ -21,7 +21,7 @@ Over **2,500+** algorithmic problems solved across:
 - **Data structures & algorithms:** Deep understanding and practical mastery, crafting optimized and elegant solutions.
 - **Software craftsmanship:** Building real-world applications with Python, Java, Flutter — blending clean code with smooth user experience.
 - **Exploring AI & machine learning:** Bringing intelligent automation and smart decision-making into gaming and education.
-- **Networking & system design:** Designing and troubleshooting multi-router networks with VLANs, NAT, ACLs, DHCP, and dynamic routing protocols.
+- 
 
 ---
 
